@@ -24,5 +24,6 @@ Feel free to clone this repository, explore the design files, and adapt the modu
 
 For more detailed information on the ESP32-S3 module design, you can view the full documentation here:
 
-[ESP32-S3 Module Design Documentation (PDF)](https://github.com/thynavy/ESP32S3_Module/blob/main/19.%20ESP32%20Module.pdf)
+[ESP32-S3 Module Schematic (PDF)](https://github.com/thynavy/ESP32S3_Module/blob/main/19.%20ESP32%20Module.pdf)
 
+[ESP32-S3 Module Design Documentation (PDF)](https://github.com/thynavy/ESP32S3_Module/blob/main/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
