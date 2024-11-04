@@ -1,11 +1,12 @@
 # Project Title: **ESP32_S3 Module**
 
-![Project Image](https://github.com/thynavy/ESP32S3_Module/blob/main/19.%20ESP32%20Module.png)
-*Image: The ESP32-S3 Module.*
-
-##  ESP32-S3 Module Design
-
 This repository contains the PCB design files for a custom ESP32-S3 module created using KiCad. The ESP32-S3, developed by Espressif Systems, is a powerful microcontroller with Wi-Fi and Bluetooth Low Energy (BLE) capabilities, making it ideal for IoT applications, edge computing, and AI-based solutions. This module design aims to provide a compact and flexible solution for integrating the ESP32-S3 into various embedded projects.
+
+<p align="center">
+    <img src="https://github.com/thynavy/ESP32S3_Module/blob/main/19.%20ESP32%20Module.png" />
+    <br />
+    <strong>Figure 1: The ESP32-S3 Module</strong>
+</p>
 
 ##  Project Features
 
