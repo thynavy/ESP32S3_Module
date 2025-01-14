@@ -9,12 +9,12 @@ This repository contains the PCB design files for a custom ESP32-S3 module creat
 
 #  Project Features
 
-- *Wi-Fi and BLE Connectivity*: Supports dual-core processing and efficient communication via Wi-Fi and BLE.
+- **Wi-Fi and BLE Connectivity**: Supports dual-core processing and efficient communication via Wi-Fi and BLE.
 - **Modular Design**: Designed for easy integration into existing systems or as a standalone controller.
 - **Optimized PCB Layout**: Careful component placement and trace routing for efficient power management and signal integrity.
 - **Flexible I/O**: Provides a variety of GPIO pins for connecting sensors, actuators, and other peripherals.
 - **PCB Layout**: Careful component placement and trace routing for efficient power management and signal integrity.
-- **I/O*: Provides a variety of GPIO pins for connecting sensors, actuators, and other peripherals.
+- **I/O**: Provides a variety of GPIO pins for connecting sensors, actuators, and other peripherals.
 
 ##  About the Design
 
