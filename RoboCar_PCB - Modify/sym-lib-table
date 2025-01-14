@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BMS")(type "KiCad")(uri "${KIPRJMOD}/Smart_car_Footprint/BQ24105RHLRG4/BQ24105RHLRG4.kicad_sym")(options "")(descr ""))
+  (lib (name "MCB")(type "KiCad")(uri "${KIPRJMOD}/Smart_car_Footprint/MIC127-140-001/MIC127-140-001/MIC127-140-001.kicad_sym")(options "")(descr ""))
+  (lib (name "BMS2")(type "KiCad")(uri "${KIPRJMOD}/Smart_car_Footprint/BQ25306RTER/BQ25306RTER.kicad_sym")(options "")(descr ""))
+)
